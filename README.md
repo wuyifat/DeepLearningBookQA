@@ -1,7 +1,7 @@
 # DeepLearningBookQA
 Q&amp;A on Deep Learning by Ian Goodfellow etc.
 
-credit goes to https://zhuanlan.zhihu.com/p/29965072
+Modified base on to https://zhuanlan.zhihu.com/p/29965072
 
 本文是问题“那些深度学习《面试》你可能需要知道的”的回答，答案均以英文版Deep Learning页标标记.
 
